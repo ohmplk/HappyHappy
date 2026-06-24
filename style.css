@@ -108,8 +108,8 @@ body {
 
 #valentine-text {
   position: fixed;
-  top: 15%;
-  font-family: 'Pacifico', cursive;
+  font-size: clamp(20px, 6vw, 48px);
+  top: 10%;
   font-size: 48px;
   color: #e6397f;
   letter-spacing: 2px;
