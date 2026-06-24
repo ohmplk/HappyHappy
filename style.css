@@ -108,7 +108,6 @@ body {
 
 #valentine-text {
   position: fixed;
-  font-size: clamp(20px, 6vw, 48px);
   top: 10%;
   font-size: 48px;
   color: #e6397f;
