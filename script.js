@@ -8,7 +8,7 @@ const openSound = document.getElementById("openSound");
 const box = document.getElementById("box");
 const textEl = document.getElementById("valentine-text");
 
-const message = "Happy Valentine Day Na Satang💖";
+const message = "Happy Valentine Day Na 💖";
 
 let opened = false;
 let roseInterval = null;
